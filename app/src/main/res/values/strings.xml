@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InsidalTT</string>
+    <string name="tanda_tangan">Tanda Tangan</string>
+    <string name="hapus">Hapus</string>
+    <string name="simpan">Simpan</string>
+    <string name="icon">Indonesia Comnets Plus</string>
+    <string name="mobile_app_developer">Mobile App Developer</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
